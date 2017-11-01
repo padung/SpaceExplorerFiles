@@ -53,7 +53,7 @@
                 <property name="name" value="celestialObjectCache"/>
                 <!-- Set cache mode. -->
                 <property name="cacheMode" value="REPLICATED"/>
-            </bean
+            </bean>
         </property>
     </bean>
 </beans>
